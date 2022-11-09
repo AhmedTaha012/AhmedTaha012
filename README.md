@@ -12,14 +12,14 @@
 - 🌱 I’m currently learning Transformers,NLp,SLAM,ROS  
   
 
-- ❓ Ask me about anything related to Computer vision,Machine Learning ,Robotics ,Embedded Systems   
+- ❓ Ask me about anything related to Computer vision,Machine Learning ,Robotics ,Embedded Systems ,Electronics   
   
 
 <br/>  
 
 
 ## My Skill Set  
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,cmake,git,heroku,ai,java,python,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,cmake,git,heroku,ai,java,py,pytorch,ros,selenium,tensorflow,linux)](https://skillicons.dev)
 
 ## Connect with me  
 <div align="center">
