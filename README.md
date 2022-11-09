@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ahmed Taha , a Computer engineer in Faculty of Engineering Helwan Univeristy  </div>  
+### <div align="center">I'm Ahmed Taha , a Computer engineer student in Faculty of Engineering Helwan Univeristy  </div>  
   
 
 - 🔭 I’m currently working on My Final year project (AI Based Configuration and IDE Tool For Autosar-based projects).  
