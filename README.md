@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,cmake,git,heroku,ai,java,python,linux)](https://skillicons.dev)
 
 ## Connect with me  
 <div align="center">
