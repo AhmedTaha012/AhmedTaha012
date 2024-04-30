@@ -6,10 +6,10 @@
 ### <div align="center">I'm Ahmed Taha , a Computer engineer student at Faculty of Engineering Helwan Univeristy  </div>  
   
 
-- 🔭 I’m currently working on My Final year project (AI Based Configuration and IDE Tool For Autosar-based projects).  
+- 🔭 I’m currently working as Data Engineer in FingerPrint Consultancy
   
 
-- 🌱 I’m currently learning Transformers,NLp,SLAM,ROS  
+- 🌱 I’m currently learning NLP,RAG,DATAWAREHOUSES
   
 
 - ❓ Ask me about anything related to Computer vision,Machine Learning ,Robotics ,Embedded Systems ,Electronics   
