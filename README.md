@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ahmed Taha , a Computer engineer student at Faculty of Engineering Helwan Univeristy  </div>  
   
 
-- 🔭 I’m currently working as Data Engineer in FingerPrint Consultancy
+- 🔭 I’m currently working as Data Scientist at fawry
   
 
 - 🌱 I’m currently learning NLP,RAG,DATAWAREHOUSES
