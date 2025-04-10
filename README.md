@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Ahmed Taha , a Computer engineer student at Faculty of Engineering Helwan Univeristy  </div>  
+### <div align="center">I'm Ahmed Taha , Data Scientist at Fawry </div>  
   
 
 - 🔭 I’m currently working as Data Scientist at fawry
   
 
-- 🌱 I’m currently learning NLP,RAG,DATAWAREHOUSES
+- 🌱 I’m currently learning NLP,RAG
   
 
 - ❓ Ask me about anything related to Computer vision,Machine Learning ,Robotics ,Embedded Systems ,Electronics   
